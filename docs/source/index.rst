@@ -1,4 +1,4 @@
-Welcome to Your Project Documentation
+Welcome to Attack Path Visualization Documentation
 ======================================
 
 .. toctree::
